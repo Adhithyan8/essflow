@@ -1,0 +1,15 @@
+*.tex
+__pycache__/
+*.egg-info/
+.vscode/
+.env
+
+# downloaded weights and data, generated results
+pretrained/
+data/
+results/
+logs/
+slurm-*.out
+
+# ALIGNN extracts its pretrained models into the working directory
+jv_*_alignn/

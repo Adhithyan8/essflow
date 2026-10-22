@@ -1,0 +1,9 @@
+[submodule "priors/flowmm"]
+	path = priors/flowmm
+	url = https://github.com/Adhithyan8/flowmm.git
+[submodule "priors/GeoLDM"]
+	path = priors/GeoLDM
+	url = https://github.com/Adhithyan8/GeoLDM.git
+[submodule "priors/proteina"]
+	path = priors/proteina
+	url = https://github.com/NVIDIA-BioNeMo/proteina.git

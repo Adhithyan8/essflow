@@ -1,0 +1,19 @@
+name: essflow-molecules
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.2.0
+  - pytorch-cuda=12.1
+  - rdkit=2026.03.1
+  - pip
+  - pip:
+    - numpy==1.26.4
+    - scipy
+    - matplotlib
+    - imageio
+    - msgpack
+    - tqdm
