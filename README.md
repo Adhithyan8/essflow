@@ -166,3 +166,7 @@ python -m experiments.molecules.evaluate results/molecules/unconditional_*.pt re
 ```
 
 The evaluation prints connectivity, diversity, uniqueness, QED, SA and quality.
+
+### Note
+
+It is possible that this code made not exactly reproduce the results in the paper due to human errors while preparing the code for release. If you encounter any issues, please do not hesitate to reach out.
